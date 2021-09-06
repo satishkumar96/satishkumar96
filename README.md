@@ -1,6 +1,7 @@
 - 👋 Hi, I’m satish kumar
 - 👀 I’m interested in automate web application
 - 🌱 I’m currently learning how to automate web application using different programming languages
+- 🌱 I’m currently using python selenium by using PyTest and RPA framework
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me 
 
