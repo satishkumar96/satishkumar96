@@ -8,6 +8,7 @@
 - 📫 How to reach me 
 
 Linkedin - https://www.linkedin.com/in/satish-kumar-0135b5112/
+Email - sk.kumar805@gmail.com
 
 <!---
 satishkumar96/satishkumar96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
