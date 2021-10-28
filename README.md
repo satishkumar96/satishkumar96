@@ -1,7 +1,9 @@
 - 👋 Hi, I’m satish kumar
 - 👀 I’m interested in automate web application
 - 🌱 I’m currently learning how to automate web application using different programming languages
-- 🌱 I’m currently using python selenium by using PyTest and RPA framework
+- 🌱 I have experience to automate web application throgh selenium python with the help of PyUnit, PyTest and RPA tool like TagUI.
+- 🌱 I have experience to automate web application through java selenium with the help of TDD tool like TestNG and BDD tool like Cucumber.
+- 🌱 I am currently using Maven projects in Elipse IDE and Python projects PyCharm IDE.
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me 
 
