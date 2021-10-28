@@ -1,5 +1,6 @@
 - 👋 Hi, I’m satish kumar
 - 👀 I’m interested in automate web application
+- 👀 I love automating everything :) If I see anyone doing repeated tasks for hours.
 - 🌱 I’m currently learning how to automate web application using different programming languages
 - 🌱 I have experience to automate web application throgh selenium python with the help of PyUnit, PyTest and RPA tool like TagUI.
 - 🌱 I have experience to automate web application through java selenium with the help of TDD tool like TestNG and BDD tool like Cucumber.
